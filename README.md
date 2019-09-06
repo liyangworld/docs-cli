@@ -3,7 +3,7 @@
 
 ```bash
 # 安装
-$ yarn global add docs-this
+$ yarn global add docs-this # 或者 npm install docs-this -g
 
 # 初始化文档
 $ docs init
