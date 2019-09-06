@@ -1,0 +1,26 @@
+{
+  "name": "docs-this",
+  "version": "1.0.0",
+  "description": "自动化为项目生成vuepress文档",
+  "bin": {
+    "docs": "bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liyangworld/docs-cli.git"
+  },
+  "keywords": [
+    "docs",
+    "vuepress",
+    "文档"
+  ],
+  "author": "liyang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/liyangworld/docs-cli/issues"
+  },
+  "homepage": "https://github.com/liyangworld/docs-cli#readme"
+}
